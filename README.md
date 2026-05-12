@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/NeetCode%20GIF.gif?raw=true" width="155" style="margin-right:5 px;" />
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/neetcode_coin_shine.gif?raw=true" width="155" />
-</p>
 
 # NeetCode Solutions — @shriram7057
 
